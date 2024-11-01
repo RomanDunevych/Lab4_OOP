@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\RealNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|solutionrelative:Lab4_OOP\\RealNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\Lab4_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|solutionrelative:Lab4_OOP\\Lab4_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\RealNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|solutionrelative:Lab4_OOP\\RealNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBFB9B09-99A8-40FA-9D06-1181103B5779}|Lab4_OOP\\Lab4_OOP.vcxproj|solutionrelative:Lab4_OOP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\Source.cpp",
+              "RelativeDocumentMoniker": "Lab4_OOP\\Source.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\Source.cpp",
+              "RelativeToolTip": "Lab4_OOP\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T11:51:59.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RealNumber.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\RealNumber.cpp",
+              "RelativeDocumentMoniker": "Lab4_OOP\\RealNumber.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\RealNumber.cpp",
+              "RelativeToolTip": "Lab4_OOP\\RealNumber.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T11:51:48.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealNumber.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\RealNumber.h",
+              "RelativeDocumentMoniker": "Lab4_OOP\\RealNumber.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\RealNumber.h",
+              "RelativeToolTip": "Lab4_OOP\\RealNumber.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-01T11:51:18.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab4_OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\Lab4_OOP.cpp",
+              "RelativeDocumentMoniker": "Lab4_OOP\\Lab4_OOP.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab4_OOP\\Lab4_OOP\\Lab4_OOP.cpp",
+              "RelativeToolTip": "Lab4_OOP\\Lab4_OOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T11:50:37.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
